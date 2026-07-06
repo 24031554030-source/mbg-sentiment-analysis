@@ -84,4 +84,26 @@ Model performance is evaluated using:
 
 ---
 
-## 📁 Project Structure
+## 💡 Key Insights
+- Most users tend to express neutral or mixed sentiment
+- Negative sentiment often appears due to service/experience issues
+- Positive sentiment is strongly linked to product satisfaction
+- Text preprocessing significantly improves model accuracy
+
+---
+
+## 🚀 Future Improvements
+- Use deep learning models (LSTM, BERT) for better accuracy
+- Add real-time sentiment prediction API
+- Improve preprocessing using advanced NLP techniques
+- Deploy model using Streamlit or FastAPI
+- Perform aspect-based sentiment analysis (ABSA)
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/mbg-sentiment-analysis.git
+cd mbg-sentiment-analysis
